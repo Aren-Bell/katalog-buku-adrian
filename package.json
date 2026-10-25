@@ -5,6 +5,7 @@
   "description": "Mini project CRUD katalog buku dengan JavaScript dasar dan ES6.",
   "type": "module",
   "scripts": {
-    "start": "node app.js"
+    "start": "node app.js",
+    "interactive": "node interactive.js"
   }
 }
